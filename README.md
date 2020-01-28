@@ -1,0 +1,2 @@
+# tutorial
+Django tutorial
